@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import PartnerSlider from './components/PartnerSlider';
 import Footer from "./components/Footer";
 
-export default function Home() {
+export default function   () {
   return (
     <div>
       <Head>
